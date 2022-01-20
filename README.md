@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MG7992
 - 👀 I’m interested in webdevelopment 
-- 🌱 I’m currently bootstrap, JS
+- 🌱 I’m currently learning bootstrap, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
